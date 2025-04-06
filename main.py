@@ -22,4 +22,4 @@ class abot(commands.Bot):
         print(f"{self.user} has connected to discord")
 
 bot = abot()
-bot.run("MTAxNDgyNDMwMTU4NjgyMTE0MA.GBSnGm.fYn5mAJHfniay-de4Laj7YI6GuFsquIvnTZ-wM")
+bot.run("TOKEN")
